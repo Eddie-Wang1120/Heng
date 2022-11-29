@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: heng
+Version: 0.0.1
+Summary: A simplified AI framework
+Author: Eddie_Wang
+Author-email: wangjinheng1120@163.com
+Requires-Python: >=3.7
